@@ -6,7 +6,7 @@ const Sidebar = () => {
         <ul className="space-y-2">
           <li>
             <a
-              href="#"
+              href="/"
               className="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700"
             >
               <svg
@@ -23,7 +23,7 @@ const Sidebar = () => {
           </li>
           <li>
             <a
-              href="#"
+              href="/"
               className="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700"
             >
               <svg
@@ -42,7 +42,7 @@ const Sidebar = () => {
           </li>
           <li>
             <a
-              href="#"
+              href="/"
               className="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700"
             >
               <svg
@@ -62,7 +62,7 @@ const Sidebar = () => {
           </li>
           <li>
             <a
-              href="#"
+              href="/"
               className="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700"
             >
               <svg
@@ -82,7 +82,7 @@ const Sidebar = () => {
           </li>
           <li>
             <a
-              href="#"
+              href="/"
               className="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700"
             >
               <svg
@@ -102,7 +102,7 @@ const Sidebar = () => {
           </li>
           <li>
             <a
-              href="#"
+              href="/"
               className="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700"
             >
               <svg
@@ -122,7 +122,7 @@ const Sidebar = () => {
           </li>
           <li>
             <a
-              href="#"
+              href="/"
               className="flex items-center p-2 text-base font-normal text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700"
             >
               <svg
@@ -177,7 +177,7 @@ const Sidebar = () => {
           </p>
           <a
             className="text-sm text-blue-900 underline hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300"
-            href="#"
+            href="/"
           >
             Turn new navigation off
           </a>
