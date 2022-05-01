@@ -10,7 +10,7 @@ const Toggle = () => {
       <button
         id="theme-toggle"
         type="button"
-        class="text-gray-500 dark:text-gray-400 bg-slate-200 dark:bg-slate-600 rounded-lg text-sm p-2.5"
+        className="text-gray-500 dark:text-gray-400 bg-slate-200 dark:bg-slate-600 rounded-lg text-sm p-1.5"
         onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
       >
         {theme === "dark" ? (
